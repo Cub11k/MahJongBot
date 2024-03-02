@@ -1,0 +1,2 @@
+pyTelegramBotAPI>=4.8.0
+pyStorages>=0.0.2
